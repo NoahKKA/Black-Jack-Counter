@@ -42,11 +42,13 @@ Since this is the beginning of my project there are no features so I will be upd
 
 ### Contributing
 
+```bash
 Fork the repository
 Create a new branch: git checkout -b feature-name
 Make your changes and commit them: git commit -m 'Add feature'
 Push to the branch: git push origin feature-name
 Submit a pull request
+```
 
 ### License
 
