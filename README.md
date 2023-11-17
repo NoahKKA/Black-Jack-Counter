@@ -28,10 +28,13 @@ Step-by-step instructions on how to install and set up my project.
 git clone https://github.com/NoahKKA/Black-Jack-Counter
 cd Black-Jack-Counter
 npm install
+```
 
 ### Usage
 
+```bash
 npm start
+```
 
 ### Features
 
